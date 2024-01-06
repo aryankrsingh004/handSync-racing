@@ -12,4 +12,5 @@
  3. hover the mouse to chrome and make chrome as your working app
  4. Now Enjoy!!!
 
+Want to see it in action? Click the thumbnail for a demo.
 [![demo-thubmnail](https://i.imgur.com/oSVCmPR.png)](https://youtu.be/2EPTVjw7C-I)
